@@ -135,9 +135,3 @@ Based on the analysis, the following actions would have the highest business imp
 - Power BI Dashboard (.pbix)  
 - Screenshots of each analysis page  
 - This README with full business documentation  
-
----
-
-## 🚀 Why this project matters
-This project replicates a **real-world business intelligence use case** using real transactional data from a UK online retailer.  
-It demonstrates not only technical Power BI skills, but also **business-driven analytical thinking**.
