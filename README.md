@@ -15,6 +15,19 @@ Each layer answers real business questions used by management teams in retail an
 
 ---
 
+## 📊 Dashboard Overview
+
+### Products Analysis
+![Products Dashboard](images/products.png)
+
+### Customer Analysis
+![Customers Dashboard](images/customer.png)
+
+### Sales Performance
+![Sales Dashboard](images/sales.png)
+
+---
+
 ## 📂 Dataset
 The dataset used in this project is the **Online Retail Dataset** (UK e-commerce), which contains:
 
