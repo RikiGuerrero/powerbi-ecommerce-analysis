@@ -18,7 +18,7 @@ Each layer answers real business questions used by management teams in retail an
 ## 📊 Dashboard Overview
 
 ### Products Analysis
-![Products Dashboard](images/products.png)
+![Products Dashboard](images/product.png)
 
 ### Customer Analysis
 ![Customers Dashboard](images/customer.png)
